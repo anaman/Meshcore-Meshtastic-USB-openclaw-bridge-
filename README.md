@@ -27,7 +27,7 @@ over the radios.
 |---|---|
 | `mesh_relay_setup.py` | Discovery + validation CLI for the two USB radios |
 | `README.md` | This file |
-| `LICENSE` | CC0-1.0 (public domain dedication) |
+| `LICENSE` | GPL-3.0 (GNU General Public License v3.0) |
 
 ## How discovery works
 
@@ -74,5 +74,5 @@ the web dashboard, systemd units and step-by-step docs — is open source:
 
 ## License
 
-This repository is released under **CC0-1.0** (see `LICENSE`) — copy,
-modify, and use it freely.
+This repository is released under the **GNU General Public License v3.0**
+(see `LICENSE`) — free to use, study, share, and improve.

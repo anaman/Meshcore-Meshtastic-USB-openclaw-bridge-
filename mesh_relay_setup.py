@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SPDX-License-Identifier: CC0-1.0
+# SPDX-License-Identifier: GPL-3.0-or-later
 """
 mesh_relay_setup.py — one-shot installer/validator for the
 MeshCore <-> Meshtastic unified gateway (standalone v1, built 2026-08-11).
